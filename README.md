@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 ¡Hola! Soy David
 
 :man_student: **Máster en Big Data y amante de la tecnología.**  
